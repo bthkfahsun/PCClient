@@ -1,0 +1,8 @@
+[version]
+name-with-version=PaperCut MF 24.1.5 (Build 71847)
+name=PaperCut MF
+version-major=24
+version-minor=1
+version-patch=5
+version-suffix=
+version-build=71847
